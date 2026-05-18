@@ -1,6 +1,3 @@
-# Fall2026FinalProject
-Python-based team-developed text game built as a final project. Includes object-oriented design, game logic, and collaborative development using Git/GitHub.
-
 ## Explain of each file:
   - final_game.py: This file is our final project file that runs our game. 
   - my_scrpit.py: This file was for our final project interim derliverable. 
