@@ -1,4 +1,8 @@
 # Number Match
+NumberMatch is a two-player Python card game where players match math equation cards to randomly drawn value cards. Each round, players must find and play equations from their hand that evaluate to the current value card. If no matching equation is available, the player draws a new card from the deck. The game continues until one player successfully empties their hand and wins.
+
+This project demonstrates the use of Python classes, lists, dictionaries, loops, conditionals, randomization, and object-oriented programming concepts through an interactive terminal-based game.
+
 ## Explain of each file:
   - final_game.py: This file is our final project file that runs our game. 
   - my_scrpit.py: This file was for our final project interim derliverable. 
