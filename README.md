@@ -31,3 +31,5 @@
 | turn()                | Shara Mohotti Arachchige | None                                      |
 | find_playable_cards() | Murad Habtu              | Generator expression                      |
 | draw_value_card()     | Murad Habtu              | Optional parameter                        |
+
+## Developed by Jordan Stone, Shara Mohotti Arachchige, and Murad Habtu 
